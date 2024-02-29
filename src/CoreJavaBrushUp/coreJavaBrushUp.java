@@ -14,10 +14,11 @@ public class coreJavaBrushUp {
 		
 			
 			System.out.println(num +" is the variable as INTEGAR");
-//			System.out.println(website);
-//			System.out.println(letter);
-//			System.out.println(dec);
-//			System.err.println(myCart);
+			System.out.println(website);
+			System.out.println(letter);
+			System.out.println(dec);
+			System.err.println(myCart);
+			System.out.println("I have updated the code to check in git hub repository");
 			
 			//Array
 			int[] arr = new int[5]; 
